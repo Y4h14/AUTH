@@ -1,0 +1,5 @@
+# deps
+node_modules/
+db.sqlite-shm
+db.sqlite-wal
+db.sqlite
